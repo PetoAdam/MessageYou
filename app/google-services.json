@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190920243386",
+    "project_id": "message-you",
+    "storage_bucket": "message-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190920243386:android:5100474a56ece2a8492a83",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.messageyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190920243386-56ghht9sn15iu53guphgog8eiuoccqmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROfjD7cyjKYxbksds9xFIae0hGOd8IGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190920243386-56ghht9sn15iu53guphgog8eiuoccqmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
